@@ -1,1 +1,1 @@
-Rust commission calculator built with Slint a GUI
+Rust commission calculator built with Slint GUI
